@@ -1,0 +1,160 @@
+{
+  "project_info": {
+    "project_number": "485602885337",
+    "firebase_url": "https://yame-6ac21.firebaseio.com",
+    "project_id": "yame-6ac21",
+    "storage_bucket": "yame-6ac21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485602885337:android:6c91c79f0cd70c8c",
+        "android_client_info": {
+          "package_name": "com.idh.songk.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpW_JxnsI0-G_ZSLrlDXZ9HYKTlzy4BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2821664824480291~9699319966"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485602885337:android:247e34918e6e051b",
+        "android_client_info": {
+          "package_name": "com.idh.songk.healthmassage_spring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpW_JxnsI0-G_ZSLrlDXZ9HYKTlzy4BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485602885337:android:555778d102e0d0d8",
+        "android_client_info": {
+          "package_name": "com.idh.songk.korea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpW_JxnsI0-G_ZSLrlDXZ9HYKTlzy4BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2821664824480291~3070813963"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485602885337:android:8b923a2baf8cf7ec",
+        "android_client_info": {
+          "package_name": "solution.idh.songk.massage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpW_JxnsI0-G_ZSLrlDXZ9HYKTlzy4BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2821664824480291~4524624763"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485602885337:android:8d8dddb02aeed32e",
+        "android_client_info": {
+          "package_name": "soultion.id_h.com.yameyame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNpW_JxnsI0-G_ZSLrlDXZ9HYKTlzy4BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485602885337-h0i4rvknbjnmjg4if1ck92ebhug7tqk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2821664824480291~3107429569"
+    }
+  ],
+  "configuration_version": "1"
+}
