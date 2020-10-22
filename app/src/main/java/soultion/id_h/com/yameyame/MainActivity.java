@@ -55,22 +55,22 @@ public class MainActivity extends AppCompatActivity implements RewardedVideoAdLi
     private long backPressedTime = 0;
 
     //
-//    @Override
-//    public void onBackPressed() {
-//
-////----------------------------------------------------------------------
-//        long tempTime = System.currentTimeMillis();
-//        long intervalTime = tempTime - backPressedTime;
-//
-//        if (0 <= intervalTime && FINSH_INTERVAL_TIME >= intervalTime) {
-//            super.onBackPressed();
-//            vib.cancel();
-//
-//        } else {
-//            backPressedTime = tempTime;
-//            Toast.makeText(getApplicationContext(), "'뒤로'버튼을한번더누르시면종료됩니다.", Toast.LENGTH_SHORT).show();
-//        }
-//    }
+    @Override
+    public void onBackPressed() {
+
+//----------------------------------------------------------------------
+        long tempTime = System.currentTimeMillis();
+        long intervalTime = tempTime - backPressedTime;
+
+        if (0 <= intervalTime && FINSH_INTERVAL_TIME >= intervalTime) {
+            super.onBackPressed();
+            vib.cancel();
+
+        } else {
+            backPressedTime = tempTime;
+            Toast.makeText(getApplicationContext(), "'뒤로'버튼을한번더누르시면종료됩니다.\n     Click the'Back' button again to finish.", Toast.LENGTH_SHORT).show();
+        }
+    }
 
 
 

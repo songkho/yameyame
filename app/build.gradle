@@ -13,8 +13,8 @@ android {
         applicationId "soultion.id_h.com.yameyame"
         minSdkVersion 16
         targetSdkVersion 29
-        versionCode 60
-        versionName "6.5"  // 필수로 안올려됨
+        versionCode 66
+        versionName "7.1"  // 필수로 안올려됨
     }
     buildTypes {
         release {
@@ -39,13 +39,13 @@ dependencies {
 
 
 
-    implementation 'com.google.firebase:firebase-messaging:19.0.1'
+    implementation 'com.google.firebase:firebase-messaging:20.3.0'
 
 
-    implementation 'com.google.android.gms:play-services-ads:17.0.0' // 애드몹
+    implementation 'com.google.android.gms:play-services-ads:19.5.0' // 애드몹
 
 
-    implementation 'com.google.firebase:firebase-core:16.0.9' //파이어베이스용
+    implementation 'com.google.firebase:firebase-core:17.5.1' //파이어베이스용
 
 
     ////페이스북/////

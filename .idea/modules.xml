@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="yameyame/app" />
-      <module fileurl="file://$PROJECT_DIR$/yameyame.iml" filepath="$PROJECT_DIR$/yameyame.iml" group="yameyame" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="yameyame/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/yameyame.iml" filepath="$PROJECT_DIR$/.idea/modules/yameyame.iml" group="yameyame" />
     </modules>
   </component>
 </project>
